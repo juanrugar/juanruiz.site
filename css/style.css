@@ -92,9 +92,9 @@ section p {
   width:  350px;
   height: 300px;
 }
-
-figure img {
-  width: 100%;
+.skilogo {
+  vertical-align: middle;
+  width: 20%;
   height: auto;
 }
 
