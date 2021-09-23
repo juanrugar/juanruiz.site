@@ -35,7 +35,6 @@ a {
   margin: 0;
   color: #550000;
 }
-
 .jumbotron {
   display: flex;
   align-items: center;
@@ -68,7 +67,9 @@ section .row img {
 .col-md-6 {
   margin: 0 0 30px;
 }
-
+section p {
+  padding: 5px;
+}
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
@@ -102,8 +103,10 @@ figure {
 }
 
 footer {
+  border: 2px solid #AA3939;
+  border-radius: 20px;
   font-size: 15px;
-  padding: 60px 0 20px;
+  padding: 10px 0 10px;
 }
 
 footer .col-sm-8 {
