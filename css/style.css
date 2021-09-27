@@ -30,6 +30,11 @@ nav {
   display: flex;
   justify-content: flex-end;
 }
+
+p a {
+padding: 0px;
+}
+
 a {
   padding: 0 20px;
   margin: 0;
